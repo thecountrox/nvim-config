@@ -15,6 +15,10 @@ mv ~/.local/state/nvim ~/.local/state/nvim.bak
 mv ~/.cache/nvim ~/.cache/nvim.bak
 ```
 
+#### Install dependencies:
+
+`yazi` - flexible file explorer using vimbinds in rust
+
 #### Clone the repository
 
 ```shell
