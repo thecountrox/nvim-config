@@ -17,3 +17,5 @@ end
 
 require "lazy_setup"
 require "polish"
+require "neovide"
+require "center_cursor"
