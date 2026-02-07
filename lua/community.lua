@@ -7,6 +7,8 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.motion.flash-nvim" },
-  { import = "astrocommunity.completion.avante-nvim" },
+  { import = "astrocommunity.programming-language-support.kulala-nvim" },
+  { import = "astrocommunity.programming-language-support.nvim-jqx" },
+  { import = "astrocommunity.terminal-integration.vim-tmux-navigator" },
   -- import/override with your plugins folder
 }
